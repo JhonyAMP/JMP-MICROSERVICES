@@ -1,7 +1,0 @@
-spring:
-  application:
-    name: jmp-estudiante-servicio
-  profiles:
-    active: development
-  config:
-    import: optional:configserver:http://jhonymp:root@localhost:7070
